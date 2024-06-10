@@ -39,11 +39,11 @@ To run this project, you need a web browser (e.g., Google Chrome, Mozilla Firefo
 **Installation**
 1. *Clone the repository to your local machine:*
 
-```
+```bash
 git clone https://github.com/yourusername/my-travel-photos-portfolio.git
 ```
 2. *Navigate to the project directory:*
-```
+```bash
 cd my-travel-photos-portfolio
 ```
 3. *Run the poject on your editorand open the index.html file in your preferred web browser to view the website.*
