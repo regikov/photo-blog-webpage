@@ -1,15 +1,13 @@
-# My Travel Photos Portfolio
+# Photo Blog site
 
 ## Overview
 
-This project is a personal portfolio website to showcase travel photos. It includes sections about the author and tips for traveling to various cities. 
+This is a simple, educational front-end photo blog site built over two days.
 
 The website is designed with **HTML, CSS** and **JavaScript**  using Flexbox for layout and Google Fonts for typography. 
 
-The header features a background image for an enhanced visual appeal.
 
 ## Features
-- Header with Background Image: The header includes a background image that enhances the visual appeal of the website.
 
 - Navigation Bar: Links to different sections and tips pages.
 
@@ -24,11 +22,9 @@ The header features a background image for an enhanced visual appeal.
 - Responsive Design: Uses Flexbox for a responsive and flexible layout.
 
 ## Technologies Used
-HTML
-CSS
-Google Fonts (Inconsolata)
-Font Awesome (for social media icons)
-Pexels (for the header background image)
+
+- HTML
+- CSS + Bootstrap
 
 
 ## Getting Started
