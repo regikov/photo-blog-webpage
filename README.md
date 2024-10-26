@@ -6,6 +6,8 @@ This is a simple, educational front-end photo blog template built over two days.
 
 The website is designed with **HTML, CSS** and **JavaScript**  using Flexbox for layout and Google Fonts for typography. 
 
+It is deployed via Vercel, you can check it out on [this link](https://photo-blog-webpage-regikovs-projects.vercel.app/)
+
 Use it and edit it to your liking!
 
 
@@ -30,6 +32,7 @@ Use it and edit it to your liking!
 - HTML
 - CSS + Bootstrap
 - JavaScript
+- Vercel (for deployment)
 
 
 ## Getting Started
@@ -49,3 +52,7 @@ cd my-travel-photos-portfolio
 ```
 3. *Run the poject on your editorand open the index.html file in your preferred web browser to view the website.*
 
+**Deployment (Optional)** 
+
+Optionally, you can deploy your project on providers like Vercel.
+[Here](https://vercel.com/docs/deployments/overview) you can see a detailed step by step of the process.
